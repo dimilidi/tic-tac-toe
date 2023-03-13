@@ -6,6 +6,7 @@
 - The information about a winning player is displayed. The players have the option to restart the game by clicking on go to start.
 
 ### Screenshot
+<img src='./public/tic-tac-toe.png ' />
     ![images](/tic-tac-toe.png)
 
 ## Technologies Used
