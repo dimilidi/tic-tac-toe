@@ -7,7 +7,6 @@
 
 ### Screenshot
 <img src='./public/tic-tac-toe.png ' />
-    ![images](/tic-tac-toe.png)
 
 ## Technologies Used
 - React (18.2.0)
